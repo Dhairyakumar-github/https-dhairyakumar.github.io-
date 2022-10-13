@@ -1,0 +1,22 @@
+body img{
+  /* size: center; */
+  height: 100%;
+  margin: 0px;
+  padding: 0px;
+  width: 100%;
+}
+#white{
+  background: rgba(233, 225, 225, 0.838);
+  border-radius: 25px;
+}
+.container-fluid{
+  position: absolute;
+}
+.abc{
+  z-index: -1;
+  filter: blur(40px);
+  position: absolute;
+  height: 100%;
+  background-size: cover;
+
+}
